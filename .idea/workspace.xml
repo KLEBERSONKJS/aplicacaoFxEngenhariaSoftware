@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b274725-5056-42be-9050-23ba749922e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/controller/MasterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/dados/JPAUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/dados/PessoaDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/model/CheckBoxGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/model/Genero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/model/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ads/projetoengenhariasoftware/model/Raca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/ads/projetoengenhariasoftware/master.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="9b274725-5056-42be-9050-23ba749922e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KLEBERSONKJS"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KLEBERSONKJS/aplicacaoFxEngenhariaSoftware.git",
+    "accountId": "69f6d64d-8918-452e-8d8d-581656195961"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -65,7 +55,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/klebb/OneDrive/Documentos/ProjetosSemestre3/projetoEngenhariaSoftware/src/main/java/com/ads/projetoengenhariasoftware"
+    "last_opened_file_path": "E:/Usuários/klebb/projetoAnaliseCondicoes"
   }
 }]]></component>
   <component name="RecentsManager">
